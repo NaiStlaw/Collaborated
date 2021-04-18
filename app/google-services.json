@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "413520272262",
+    "firebase_url": "https://covitrix-senior-default-rtdb.firebaseio.com",
+    "project_id": "covitrix-senior",
+    "storage_bucket": "covitrix-senior.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413520272262:android:5a752b420ff023d96e2a07",
+        "android_client_info": {
+          "package_name": "com.example.covitrix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413520272262-9uggotjh9n1tljiifpene3kqor832198.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqjy21TvSaOKzillq_n_5dIT6hd5_maWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413520272262-9uggotjh9n1tljiifpene3kqor832198.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413520272262:android:2f8728b22016d9d86e2a07",
+        "android_client_info": {
+          "package_name": "com.example.firebaseheartratemonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413520272262-9uggotjh9n1tljiifpene3kqor832198.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqjy21TvSaOKzillq_n_5dIT6hd5_maWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413520272262-9uggotjh9n1tljiifpene3kqor832198.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413520272262:android:f3848512cdae48936e2a07",
+        "android_client_info": {
+          "package_name": "com.example.tsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413520272262-69nlpui9uc8l8a3eilhtj93qdq0mchkr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tsample",
+            "certificate_hash": "6413d71b5d382fdcc8ccfe316bbd27cd9d705093"
+          }
+        },
+        {
+          "client_id": "413520272262-9uggotjh9n1tljiifpene3kqor832198.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqjy21TvSaOKzillq_n_5dIT6hd5_maWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413520272262-9uggotjh9n1tljiifpene3kqor832198.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
